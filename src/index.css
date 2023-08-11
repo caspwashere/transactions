@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  font-family: Roboto, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+body {
+  background-color: #fbfbfb;
+}
+
+@media (min-width: 992px) {
+  .sidebar {
+    height: unset!important;
+  }
+}
+
+/* Navbar */
+.navbar-color{
+  background-color: #263238;
+}
+
